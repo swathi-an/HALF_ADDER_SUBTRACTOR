@@ -59,3 +59,15 @@ Developed by: RegisterNumber:*/
 **Output/TIMING Waveform**
 
 **Result:**
+
+Lgic gates
+
+<img width="321" height="130" alt="exp 3  i  lg" src="https://github.com/user-attachments/assets/c2194691-4a14-4b32-90b6-4721a78630f8" />
+
+<img width="317" height="150" alt="exp 3  ii  lg" src="https://github.com/user-attachments/assets/a5dc159a-e906-4fba-bc69-2ee12d954285" />
+
+State gate
+
+<img width="1920" height="250" alt="exp 3  i  wf" src="https://github.com/user-attachments/assets/39899b6b-d87d-480f-ba09-af3dc2cfcf01" />
+
+<img width="1920" height="229" alt="exp3 ii wf" src="https://github.com/user-attachments/assets/c1656871-9745-4784-926e-fb5cde3d68ea" />
